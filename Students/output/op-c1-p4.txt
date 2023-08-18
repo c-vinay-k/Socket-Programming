@@ -1,0 +1,9 @@
+lab4db.ddl
+f1.txt
+ddlolympics.sql
+temp.c
+run.sh
+Connected to 2 with unique-ID 5790 on port 6000
+Found rafinal at 5790 with MD5 0 at depth 1
+Found ra.txt at 5790 with MD5 0 at depth 1
+Found opda.txt at 5790 with MD5 0 at depth 1

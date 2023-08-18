@@ -1,0 +1,5 @@
+./tc4_0/files/client3/
+Found rafinal at 0 with MD5 0 at depth 0
+Found ddlolympics.sql at 0 with MD5 0 at depth 0
+Found queries at 0 with MD5 0 at depth 0
+Found run.sh at 0 with MD5 0 at depth 0

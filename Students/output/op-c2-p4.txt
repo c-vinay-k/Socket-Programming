@@ -1,0 +1,19 @@
+temp2.cpp
+go.sh
+lab4db.ddl
+q1.cpp
+ra.txt
+f1.txt
+temp.c
+oppk.txt
+op.txt
+opda.txt
+file.cpp
+rafinal
+another.txt
+run.sh
+bar.pdf
+foo.png
+Connected to 1 with unique-ID 5328 on port 5000
+Found queries at 0 with MD5 0 at depth 0
+Found ddlolympics.sql at 5328 with MD5 0 at depth 1

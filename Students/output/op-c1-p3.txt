@@ -1,0 +1,26 @@
+./tc4_0/files/client1/
+lab4db.ddl
+f1.txt
+ddlolympics.sql
+temp.c
+run.sh
+Connected to 2 with unique-ID 5790 on port 6000
+ddlolympic
+ddlolympic is filename and filesize is -1 14
+10 Received message: 897       
+897 is size of rafinal
+Downloaded rafinal
+x
+1 neighbours done out of neighbours 1
+Secver thread ended
+10 Received message: 1380      
+1380 is size of ra.txt
+Downloaded ra.txt
+10 Received message: 4101      
+4101 is size of opda.txt
+Downloaded opda.txt
+Client thread over
+FINISHED
+Found rafinal at 5790 with MD5 68e92659622e17d91d7d82e7a8acc761 at depth 1
+Found ra.txt at 5790 with MD5 95222018ae6b99b4babe860725371c63 at depth 1
+Found opda.txt at 5790 with MD5 0a075e3043faf3e44be2edd5ec5792d0 at depth 1

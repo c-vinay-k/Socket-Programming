@@ -1,0 +1,17 @@
+ddlolympics.sql 1
+rafinal
+rafinal is filename and filesize is 897 14
+10 Received message: -1        
+-1 is size of ddlolympics.sql
+Downloaded ddlolympics.sql
+Client thread over
+ra.txt
+ra.txt is filename and filesize is 1380 14
+opda.txt
+opda.txt is filename and filesize is 4101 14
+x
+1 neighbours done out of neighbours 1
+Secver thread ended
+FINISHED
+Found queries at 0 with MD5 0 at depth 0
+Found ddlolympics.sql at 5328 with MD5 d41d8cd98f00b204e9800998ecf8427e at depth 1

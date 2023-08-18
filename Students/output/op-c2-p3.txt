@@ -1,0 +1,34 @@
+./tc4_0/files/client2/
+temp2.cpp
+go.sh
+lab4db.ddl
+q1.cpp
+ra.txt
+f1.txt
+temp.c
+oppk.txt
+op.txt
+opda.txt
+file.cpp
+rafinal
+another.txt
+run.sh
+bar.pdf
+foo.png
+Connected to 1 with unique-ID 5328 on port 5000
+rafinal
+rafinal is filename and filesize is 897 14
+10 Received message: -1        
+-1 is size of ddlolympics.sql
+Downloaded ddlolympics.sql
+Client thread over
+ra.txt
+ra.txt is filename and filesize is 1380 14
+opda.txt
+opda.txt is filename and filesize is 4101 14
+x
+1 neighbours done out of neighbours 1
+Secver thread ended
+FINISHED
+Found queries at 0 with MD5 0 at depth 0
+Found ddlolympics.sql at 5328 with MD5 d41d8cd98f00b204e9800998ecf8427e at depth 1

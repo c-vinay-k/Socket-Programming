@@ -1,0 +1,3 @@
+./tc4_0/files/client4/
+Found queries at 0 with MD5 0 at depth 0
+Found lab4db.ddl at 0 with MD5 0 at depth 0
